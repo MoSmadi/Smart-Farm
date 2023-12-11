@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\SmartFarm.Domain\SmartFarm.Domain.csproj" />
+    </ItemGroup>
+
 </Project>
